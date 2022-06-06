@@ -1,17 +1,17 @@
 # Проект 1. Угадай число за минимальное число попыток
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/manyak76/DST-117/blob/main/guess_number/#readme@Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/manyak76/DST-117/blob/main/guess_number#readme@Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/manyak76/DST-117/blob/main/guess_number#readme@Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/manyak76/DST-117/blob/main/guess_number#readme@Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/manyak76/DST-117/blob/main/guess_number#readme@Результат)    
-[6. Выводы](https://github.com/manyak76/DST-117/blob/main/guess_number#readme@Выводы) 
+[1. Описание проекта](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Результат)    
+[6. Выводы](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/manyak76/DST-117/blob/main/guess_number#readme@Оглавление)
+:arrow_up:[к оглавлению](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -31,14 +31,15 @@
 ### Краткая информация о данных
 Ввод данных не требуется
   
-:arrow_up:[к оглавлению](#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
 Быстрое написание кода.
+
 Долгое оформление проекта.
 
-:arrow_up:[к оглавлению](https://github.com/manyak76/DST-117/blob/main/guess_number#readme@Оглавление)
+:arrow_up:[к оглавлению](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Оглавление)
 
 
 ### Результаты:  
