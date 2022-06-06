@@ -5,7 +5,7 @@
 [2. Какой кейс решаем?](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Результат)    
+[5. Результаты](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Результаты)    
 [6. Выводы](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Выводы) 
 
 ### Описание проекта    
@@ -27,6 +27,7 @@
 **Что практикуем**     
 Учимся писать хороший код на python
 
+:arrow_up:[к оглавлению](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Оглавление)
 
 ### Краткая информация о данных
 Ввод данных не требуется
