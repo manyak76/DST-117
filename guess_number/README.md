@@ -1,7 +1,7 @@
 # Проект 1. Угадай число за минимальное число попыток
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Описание-проекта)  
+[1. Описание проекта](https://github.com/manyak76/DST-117/blob/main/guess_number/README#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/manyak76/DST-117/blob/main/guess_number/README.md#Этапы-работы-над-проектом)  
